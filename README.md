@@ -39,3 +39,5 @@
  >Global Scope is a term used when a variable is declared outside any of the functions i.e the variables should be declared globally.
 
  >Минтақаи намоени глобалӣ истилоҳест, ки ҳангоми эълони тағиребанда берун аз ягон функсия истифода мешавад, яъне тағиребандаҳо бояд дар саросари функсия (истифода) эълон карда шаванд.
+
+ ![](/images/Screenshot_3.png)
