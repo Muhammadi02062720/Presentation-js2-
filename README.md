@@ -15,3 +15,9 @@
 баён мекунад. Таърифи (номи функсия) функсия бадани воқеии функсияро ифода мекунад.
 
 ![](/images/Screenshot_2.png)
+
+> # Function - Expression
+
+>Variable x is used to store the function. Here the function is treated as an expression. And the function is called using the variable name.The function is called an anonymous function.
+
+>Тағиребандаи x барои нигоҳ доштани функсия истифода мешавад. Дар ин ҷо функсия ҳамчун ифодакунанда баён шудааст. Функсия бо истифода аз номи тағиребандахо даъват карда мешавад.Ин намуд функсия функсияи беном номида мешавад.
