@@ -7,7 +7,7 @@
 
 > # Function - Declaration
 
-> ###What is the Function Declaration ?
+> ### What is the Function Declaration ?
 
  >A function declaration tells the compiler about a function's name, return type, and parameters. A function definition provides the actual body of the function.
 
