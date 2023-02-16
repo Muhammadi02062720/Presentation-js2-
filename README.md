@@ -41,3 +41,13 @@
  >Минтақаи намоени глобалӣ истилоҳест, ки ҳангоми эълони тағиребанда берун аз ягон функсия истифода мешавад, яъне тағиребандаҳо бояд дар саросари функсия (истифода) эълон карда шаванд.
 
  ![](/images/Screenshot_3.png)
+
+ > # Local Scope
+
+ > ### What is the Local Scope ?
+
+  >When we declare a function it creates its own scope. So, whenever a function is declared it creates its local scope which is limited to that function. So, it means that if you are declared a variable inside a function it’s limited to it.
+
+  >Вақте ки мо функсияро эълон мекунем, он майдони намоени худро эҷод мекунад. Ҳамин тавр, вақте ки функсия эълон карда мешавад, он минтақаи намоени маҳаллии худро эҷод мекунад, ки бо ин функсия маҳдуд аст. Пас, ин маънои онро дорад, ки агар шумо тағиребандаро дар дохили функсия эълон карда бошед, пас он бо он маҳдуд аст.
+
+  ![](/images/Screenshot_4.png)
