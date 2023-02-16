@@ -7,7 +7,7 @@
 
 > # Function - Declaration
 
->What is the Function Declaration ?
+> ###What is the Function Declaration ?
 
  >A function declaration tells the compiler about a function's name, return type, and parameters. A function definition provides the actual body of the function.
 
@@ -21,3 +21,11 @@
 >Variable x is used to store the function. Here the function is treated as an expression. And the function is called using the variable name.The function is called an anonymous function.
 
 >Тағиребандаи x барои нигоҳ доштани функсия истифода мешавад. Дар ин ҷо функсия ҳамчун ифодакунанда баён шудааст. Функсия бо истифода аз номи тағиребандахо даъват карда мешавад.Ин намуд функсия функсияи беном номида мешавад.
+
+> # Scope...
+
+> ### What is scope ?
+
+ >Scope is the area of code where a variable (or function) exists and is accessible. There are a few different types of scopes in JavaScript: Global Scope, Function Scope and Block Scope.
+
+ >Майдони намоёне ки кодхо намоён хаст, ва тағиребанда (е функсия) вуҷуд дорад ва функсияхо бо хам алока доранд(робита). Дар JavaScript якчанд намудҳои гуногуни минтақаҳо (Scope) мавҷуданд: минтақаи глобалӣ, минтақаи функсия ва минтақаи блок. 
