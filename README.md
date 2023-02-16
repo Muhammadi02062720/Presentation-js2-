@@ -59,3 +59,5 @@
    >Hoisting in JavaScript is a behavior in which a function or a variable can be used before declaration
 
    >Ба боло баромадан Ба JavaScript рафторест, ки дар он функсия ё тағиребанда пеш аз эъломия истифода бурдан мешавад
+
+   ![](/images/Screenshot_5.png)
