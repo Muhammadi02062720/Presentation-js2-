@@ -61,3 +61,11 @@
    >Ба боло баромадан Ба JavaScript рафторест, ки дар он функсия ё тағиребанда пеш аз эъломия истифода бурдан мешавад
 
    ![](/images/Screenshot_5.png)
+
+> ## Hoisting -Function Declaration
+
+ >The function foo’s declaration (which in this case includes the implied value of 
+it as an actual function) is hoisted, such that the call on the first line is able to 
+execute
+
+![](/images/Screenshot_6.png)
