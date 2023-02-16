@@ -29,3 +29,5 @@
  >Scope is the area of code where a variable (or function) exists and is accessible. There are a few different types of scopes in JavaScript: Global Scope, Function Scope and Block Scope.
 
  >Майдони намоёне ки кодхо намоён хаст, ва тағиребанда (е функсия) вуҷуд дорад ва функсияхо бо хам алока доранд(робита). Дар JavaScript якчанд намудҳои гуногуни минтақаҳо (Scope) мавҷуданд: минтақаи глобалӣ, минтақаи функсия ва минтақаи блок. 
+
+![](/images/FHHHS29VIAIMlWv.png)
