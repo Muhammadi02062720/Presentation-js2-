@@ -93,6 +93,8 @@ execute
  >### Recurcion
   >A recursive function must have a condition to stop calling itself. Otherwise, 
 the function is called indefinitely.
+  
+  >Функсияи рекурсивӣ бояд барои қатъ кардани даъват ба худ шарт дошта бошад. Дар акси ҳол функсия беохир даъват карда мешавад
 
 ![](/images/Screenshot_10.png)
 
