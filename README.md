@@ -64,7 +64,7 @@
 
 > ## Hoisting -Function Declaration
 
- >The function foo’s declaration (which in this case includes the implied value of 
+ >The function add’s declaration (which in this case includes the implied value of 
 it as an actual function) is hoisted, such that the call on the first line is able to 
 execute
 
