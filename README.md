@@ -77,3 +77,13 @@ execute
  >Функсияи Ифодави ё Баёни дар JavaScript, ба фарқ аз эъломияҳои функсия,  бароварда намешаванд. Шумо наметавонед ибораҳои функсияро пеш аз сохтани онҳо истифода баред:
 
 ![](/images/Screenshot7.png)
+
+# Recurcion
+
+> ### what is recurcion ?
+
+ >A process ( a function in our case ) that calls itself.
+
+ >Раванде аст ки худаш худашро даъват менамояд.
+
+ ![](/images/Screenshot_9.png)
