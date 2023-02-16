@@ -74,4 +74,4 @@ execute
 
  >Function expressions in JavaScript are not hoisted, unlike function declarations. You can't use function expressions before you create them:
 
- >Ифодаи функсия дар JavaScript, ба фарқ аз эъломияҳои функсия,  бароварда намешаванд. Шумо наметавонед ибораҳои функсияро пеш аз сохтани онҳо истифода баред:
+ >Функсияи Ифодави ё Баёни дар JavaScript, ба фарқ аз эъломияҳои функсия,  бароварда намешаванд. Шумо наметавонед ибораҳои функсияро пеш аз сохтани онҳо истифода баред:
