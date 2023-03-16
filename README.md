@@ -80,3 +80,5 @@ the function is called indefinitely.
  >Closure is one of the most important, and often least understood, concepts in JavaScript. You can think of closure as a way to “remember” and continue to access a function’s scope (its variables) even once the function has finished running.  
 
  > Анчоми кор ва ё бастан яке аз маъмултарин ва муҳимтарин, ва аксар вақт камтарин мафҳумҳои фаҳмо дар Забони JavaScript аст. Шумо метавонед анчоми кор ва бастанро ҳамчун роҳи" ёдоварӣ " ва идомаи дастрасӣ ба майдони намоёни функсия (ва инчунин ба тағйиребандахои он) ва ҳатто пас аз ба итмом расидан иҷрои кори функсия бифахмед.
+
+![](/images/Screenshot_12.png)
