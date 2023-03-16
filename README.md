@@ -63,7 +63,7 @@ execute
 
  >Раванде аст ки худаш худашро даъват менамояд.
 
- ![](/images/Screenshot_9.png)
+ ![](/images/Screenshot_8.png)
 
  >### Recurcion
   >A recursive function must have a condition to stop calling itself. Otherwise, 
